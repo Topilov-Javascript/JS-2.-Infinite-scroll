@@ -1,1 +1,1 @@
-# JS-2.-Infinity-scroll
+# JS-2.-Infinite-scroll
